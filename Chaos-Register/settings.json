@@ -1,0 +1,48 @@
+{
+    "botSettings": {
+        "token": "",
+        "owners": [
+            ""
+        ],
+        "prefix": "!",
+        "botStatus": "",
+        "botVoiceChannelID": "",
+        "mongoURL": ""
+    },
+    "channelSettings": {
+        "register": "",
+        "rules": "",
+        "wlcmessageChannel": ""
+    },
+    "roleSettings": {
+        "registerer": "",
+        "vipRole": "",
+        "teamRole": "",
+        "musicianRole": "",
+        "otherRole": "",
+        "booster": [
+            ""
+        ],
+        "unregisteredRole": [
+            ""
+        ],
+        "girlRole": [
+            ""
+        ],
+        "boyRole": [
+            ""
+        ]
+    },
+    "colors": {
+        "redColor": "RED",
+        "magentaColor": "#AF48F1",
+        "blackColor": "0f3057",
+        "goldColor": "ffe5b9",
+        "myshlumColor": "cd5d7d"
+    },
+    "serverSettings": {
+        "serverID": "",
+        "serverTag": "",
+        "unTag": ""
+    }
+}
